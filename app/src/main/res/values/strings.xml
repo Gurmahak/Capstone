@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapOut</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Plan</string>
+    <string name="title_notifications">Chat</string>
+    <string name="title_activity_category1">Category1Activity</string>
+</resources>
